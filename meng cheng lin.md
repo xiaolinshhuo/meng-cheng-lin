@@ -3,6 +3,7 @@
 **换行** 换行的话 打两个以上的空格就是换行啦-
 **字体** 斜体：*我是斜体*  粗体**我是粗体**   粗斜体***我是粗斜体***
 **分割线** 你可以在一行中用三个以上的星号，减号，底线来建立哦 但是哪一行不能有其他东东了
-*****
+******
 **插入代码**
-![](https://github.com/xiaolinshhuo/meng-cheng-lin/blob/master/%E5%9B%BE%E7%89%87/v2-9b491c252db238b5585d92d085161d8e.jpg)
+！[]（https://github.com/xiaolinshhuo/meng-cheng-lin/blob/master/%E5%9B%BE%E7%89%87/v2-9b491c252db238b5585d92d085161d8e.jpg）
+就先这样回来会接着更
